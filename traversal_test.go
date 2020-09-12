@@ -1,4 +1,4 @@
-package goquery
+package tenta
 
 import (
 	"strings"

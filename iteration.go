@@ -1,4 +1,4 @@
-package goquery
+package tenta
 
 // Each iterates over a Selection object, executing a function for each
 // matched element. It returns the current Selection object. The function

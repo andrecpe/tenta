@@ -22,7 +22,7 @@
 // WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 /*
-Package goquery implements features similar to jQuery, including the chainable
+package tenta implements features similar to jQuery, including the chainable
 syntax, to manipulate and query an HTML document.
 
 It brings a syntax and a set of features similar to jQuery to the Go language.
@@ -120,4 +120,4 @@ that are not part of jQuery, but are useful to goquery.
     - NodeName
     - OuterHtml
 */
-package goquery
+package tenta
