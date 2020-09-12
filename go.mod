@@ -1,4 +1,4 @@
-module goquery
+module tenta
 
 go 1.15
 
