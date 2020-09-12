@@ -1,4 +1,4 @@
-module tenta
+module github.com/andrecpe/tenta
 
 go 1.15
 
